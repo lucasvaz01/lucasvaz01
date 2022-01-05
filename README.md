@@ -1,4 +1,4 @@
-## Olá, eu sou o Lucasvaz01
+## Olá, eu sou o Lucas!
 - 👀 Tenho interesse em HTML, CSS, JavaScrip.
 - 🌱 Atualmente estudando front-end.
 - 😎 Pretendo um dia me tornar um full-stack.
