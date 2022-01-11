@@ -1,7 +1,7 @@
 ## Olá, eu sou o Lucas!
-- 👀 Tenho interesse em HTML, CSS, JavaScrip.
+- 👀 Tenho interesse em HTML, CSS, JavaScrip e React.
 - 🌱 Atualmente estudando front-end.
-- 😎 Pretendo um dia me tornar um full-stack.
+- 😎 Pretendo um dia me tornar um Web Development.
 
 <div>
   <a href="https://github.com/lucasvaz01">
